@@ -34,10 +34,10 @@ If there is no `else` condition, and none of the other conditions are met, then 
 
 example:
 ```
-
+# ...
 ```
 
-...
+*TBD*
 
 
 ## WHILE LOOPS
@@ -46,7 +46,7 @@ example:
 ```
 done = False    # our 'flag' variable, which kicks us out of the loop when set to `True`
 
-
+# ...
 ```
 
-...
+*TBD*
