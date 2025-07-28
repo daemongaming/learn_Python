@@ -34,7 +34,9 @@ If there is no `else` condition, and none of the other conditions are met, then 
 
 example:
 ```
-# ...
+for i = 0; i < 10; i++: 
+	num = i + 1
+	print(f"This is line {num}")
 ```
 
 *TBD*
@@ -45,8 +47,13 @@ example:
 example:
 ```
 done = False    # our 'flag' variable, which kicks us out of the loop when set to `True`
+count = 0
 
-# ...
+while not done:
+	if count < 10:
+		print(f"This is line {num}")
+	else:
+		done = True
 ```
 
 *TBD*
