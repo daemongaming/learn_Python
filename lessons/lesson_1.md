@@ -39,7 +39,7 @@ for i = 0; i < 10; i++:
 	print(f"This is line {num}")
 ```
 
-*TBD*
+This prints out "This is line 1" then a new line, and "This is line 2", and so on to line 10.
 
 
 ## WHILE LOOPS
@@ -56,4 +56,4 @@ while not done:
 		done = True
 ```
 
-*TBD*
+This loop does the same thing! :)
