@@ -1,3 +1,3 @@
-# QUIZ 6
+# QUIZ[6]
 
 *TBD*

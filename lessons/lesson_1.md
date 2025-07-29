@@ -34,12 +34,14 @@ If there is no `else` condition, and none of the other conditions are met, then 
 
 example:
 ```
-for i = 0; i < 10; i++: 
+for i in range(0,10): 
 	num = i + 1
 	print(f"This is line {num}")
 ```
 
 This prints out "This is line 1" then a new line, and "This is line 2", and so on to line 10.
+
+The `range(0,10)` counts from the first number (inclusive) and stops before the last number (exclusive). So, this one starts at `0` and then stops at `9`.
 
 
 ## WHILE LOOPS
@@ -56,4 +58,4 @@ while not done:
 		done = True
 ```
 
-This loop does the same thing! :)
+This loop does the same thing as the `for` loop above, manually counting up through each loop! :)

@@ -1,4 +1,4 @@
-# QUIZ 0
+# QUIZ[0]
 
 1.) What is the basic purpose of a `variable`?
 

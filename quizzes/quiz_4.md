@@ -1,3 +1,3 @@
-# QUIZ 4
+# QUIZ[4]
 
 *TBD*

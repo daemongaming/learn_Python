@@ -1,3 +1,3 @@
-# QUIZ 8
+# QUIZ[8]
 
 *TBD*
