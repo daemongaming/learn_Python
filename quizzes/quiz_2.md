@@ -4,7 +4,7 @@
 
 2.) How does one get the second-to-last value in a list named `drinks`?
 
-3.) What is printed when the following code block is run?
+3.) [TRICKY Q!] What is printed when the following code block is run?
 
 ```
 words = ["banana", "fruit", "fly", "flies", "time", "arrow", "clock", "house"]
