@@ -107,4 +107,14 @@ def main():
 main()
 ```
 
-...
+The class `Person` above has several functions defined inside of it, with the first one being `__init__(self)`.
+
+It is good practice to define the `__init__()` function taking the parameter `self` for a class in order to "initialize" certain values that can be used in the scope of the whole class.
+
+The `self` parameter just gets the scope of the class, so we can work with those initialized values -- or even values modified by another function elsewhere in the class!
+
+Note: we do *not* need to pass `self` as a parameter when the function is called, but we *do* need to have it in the function's definition; also, `self` should only be used in a class scope, not "global"!
+
+Notice the `main()` function that is defined, and called, at the bottom of the code.
+
+It is common practice to have a "main" script that acts as a sort of "entry point" for the code to start at.
